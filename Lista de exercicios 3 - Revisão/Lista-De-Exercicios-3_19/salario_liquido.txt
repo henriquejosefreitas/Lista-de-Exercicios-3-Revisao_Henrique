@@ -1,0 +1,5 @@
++ Salário Bruto: R$ 7200,00
+- Imposto de Renda (11%): R$ 792,00
+- INSS (8%): R$ 576,00
+- Sindicato (5%): R$ 360,00
+= Salário Líquido: R$ 5472,00
